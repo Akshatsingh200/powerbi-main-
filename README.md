@@ -33,7 +33,7 @@ This project put key Power BI features into practice. Here's what we mastered:
 
 ## Dashboard Overview (Single Page Focus)
 
-![Data Jobs Dashboard]
+Data Jobs Dashboard
 
 This page acts as your concise mission control for the data job market. It showcases key performance indicators (KPIs) like **Job Count, Skills Per Job, Median Yearly Salary, and Median Hourly Salary**. You can also quickly see **Skill Popularity** (by job percent or count) and compare **Salaries across different Job Titles**, all designed for an efficient overview.
 
